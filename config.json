@@ -42,12 +42,12 @@
     "title": "Featured Projects",
     "items": [
       {
-        "name": "Portfolio Website",
-        "date": "July 19, 2025",
+        "name": "Scaape",
+        "date": "May 19, 2025",
         "description": [
-          "A modern, responsive portfolio website built with vanilla JavaScript",
-          "Features dark/light mode, dynamic content loading, and GitHub integration",
-          "Fully configurable through JSON with automated README generation"
+          "A geo social app that helps you find your buddies in your neighbour",
+          "Features events which you can join in your area become a event organizer in just 30 secs",
+          "Only verified users and Highly content moderated"
         ],
         "picture": "assets/projects/Placeholder.png",
         "link": {
@@ -61,8 +61,8 @@
     "title": "Professional Experience",
     "jobs": [
       {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
+        "company": "Mckinsey & co.",
+        "role": "SWE 2",
         "date": "Start Date - Present",
         "responsibilities": [
           "Add your key responsibilities and achievements here",
