@@ -49,7 +49,7 @@
           "Features events which you can join in your area become a event organizer in just 30 secs",
           "Only verified users and Highly content moderated"
         ],
-        "picture": "assets/projects/Placeholder.png",
+        "picture": "assets/projects/IMG_5537.jpeg",
         "link": {
           "url": "https://anishdutta.github.io/anish-dutta-11",
           "title": "View Live Site"
@@ -65,10 +65,9 @@
         "role": "SWE 2",
         "date": "Start Date - Present",
         "responsibilities": [
-          "Add your key responsibilities and achievements here",
-          "Include specific technologies you worked with",
-          "Mention any notable projects or impact metrics",
-          "Update this section with your actual work experience"
+          "Building credit system for clients and Visual graphics and media collaboration",
+          "Set up pipelines using Kafka and elastic"
+          
         ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
@@ -100,7 +99,7 @@
         "name": "Certifications",
         "items": [
           {
-            "name": "Add your certification name here",
+            "name": "Google cloud infrastructure",
             "url": "https://example.com/your-certification-link"
           },
           "You can also add certifications without links"
